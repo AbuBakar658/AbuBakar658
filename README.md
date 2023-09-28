@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbuBakar658.
+- 👀 Passionate about humanity's future.
+- 🌱 I love to build projects, make life easier with code.
+- 💼 FrontEnd Engineer.
+- 📫 Reach me through LinkedIn.
